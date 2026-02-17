@@ -2,7 +2,7 @@
 
 ## Live Demo
 
-Check out the live app here: [Open Demo](https://justyna-habit-tracker.vercel.app)
+Check out the live app here: [Open Demo](https://habit-tracker-justber.vercel.app/)
 
 👩‍💻 Author
 
@@ -82,7 +82,5 @@ This project is licensed under the MIT License.
 
 ## 📸 Preview
 
-<p align="center">
-  <img src="./screenshots/form.png" width="250"/>
-  <img src="./screenshots/progress.png" width="250"/>
-</p>
+![Form Screenshot](screenshots/form.png)
+![Progress Screenshot](screenshots/progress.png)
