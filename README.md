@@ -8,7 +8,7 @@ Check out the live app here: [Open Demo](https://habit-tracker-justber.vercel.ap
 
 Created by Justyna Bereza
 
-🔗 [LinkedIn Profile](www.linkedin.com/in/justynabereza)
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/justynabereza/)
 
 ## 📌 Project Description
 
